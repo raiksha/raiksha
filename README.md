@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raiksha, also known as Akane. 
+- 👋 Hi, I’m Constanza, also known as @raiksha or Akane. 
 - 👀 I’m interested in learning whatever I need to develop usable programs.
 - 🌱 I’m currently learning React and JavaScript.
 
