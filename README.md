@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @raiksha
-- 👀 I’m interested in learning Python, Tkinter, JavaScript, React, HTML, CSS, Git, whatever I need to develop usable programs.
+- 👋 Hi, I’m @raiksha, also known as Akane. 
+- 👀 I’m interested in learning whatever I need to develop usable programs.
 - 🌱 I’m currently learning React and JavaScript.
 
 <!---
