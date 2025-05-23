@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Constanza, also known as Raiksha or DevAkane. 
+- 👋 Hi, I’m Constanza, also known as Raiksha or Akane. 
 - 👀 I’m interested in learning whatever I need to develop usable programs.
 - 🌱 I’m currently doing the CS50x course.
