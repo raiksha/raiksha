@@ -1,27 +1,32 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=25&color=gradient&customColorList=14&textBg=false&fontAlign=50&fontAlignY=50&fontSize=50&section=header&reversal=false"/>
+<img width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&height=25&color=gradient&customColorList=14&textBg=false&fontAlign=50&fontAlignY=50&fontSize=50&section=header&reversal=false" />
 
 <h1 align="center">María Constanza Riquelme <sup>she/her</sup></h1>
-<h3 align="center">Full Stack Developer Student</h3>
-<br>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=EDCCF7&center=true&vCenter=true&width=435&lines=Estudiante+de+Desarrollo+Full+Stack"
+      alt="Full Stack Developer Student" /></a>
+</div>
 <div align="center">
   <table width="100%">
     <tr>
       <td>
-        🤖 aka Raiksha or Akane
+        🤖 aka Raiksha o Akane
       </td>
       <td>
-        📫 Contact me: <a href="mailto:dev.miari@gmail.com/">dev.miari@gmail.com</a>
+        📫 Contáctame: <a href="mailto:dev.miari@gmail.com/">dev.miari@gmail.com</a>
       </td>
     </tr>
   </table>
 </div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&customColorList=14&textBg=false&fontAlign=50&fontAlignY=50&fontSize=50&section=header&reversal=false"/>
+<img width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&customColorList=14&textBg=false&fontAlign=50&fontAlignY=50&fontSize=50&section=header&reversal=false" />
 
-<h2 align="center">🌱 Currently Learning</h2>
+<h2 align="center">🌱 Actualmente Aprendiendo</h2>
 <div align="center">
   <table>
     <tr>
-      <th>Languages</th>
+      <th>Lenguajes</th>
       <th>Frontend</th>
       <th>Backend</th>
       <th>Database</th>
@@ -88,69 +93,75 @@
 
 <br><br>
 
-<h2 align="left">🙋‍♂️ About Me</h2>
+<h2 align="left">🙋‍♂️ ¿Quién soy?</h2>
 <div align="left">
-  - I'm a developer in training who loves solving problems, building things and learning every day.<br />
-  - I've worked on scripting, web development and automation.<br />
-  - I'm currently completing a <strong>specialization in Java Full Stack Development in <a
-      href="https://chile.generation.org/">Generation</a></strong> and preparing to start university in 2027.
+  - Soy una desarrolladora en formación que ama resolver problemas, construir cosas y aprender todos los días.<br />
+  - He trabajado en scripting, desarrollo web y automatización.<br />
+  - Actualmente estoy completando una <strong>especialización en Desarrollo Full Stack Java en <a
+      href="https://chile.generation.org/">Generation</a></strong> y preparándome para comenzar la universidad en 2027.
 </div>
 
 <br><br>
 
-<h2 align="right">🛠️ What I'm Working On</h2>
+<h2 align="right">🛠️ ¿En qué estoy trabajando?</h2>
 <div align="right">
-  I am developing a <strong>sales automation workflow</strong> that integrates Discord with <strong>n8n</strong>. The
-  system autonomously gathers prospect data before finalizing sales, reducing manual overhead. To ensure full
-  infrastructure control and scalability, the entire environment is self-hosted on a <strong>DigitalOcean
-    Droplet</strong>.
+  Estoy desarrollando un <strong>flujo de automatización de ventas</strong> que integra Discord con
+  <strong>n8n</strong>. El
+  sistema recopila datos de prospectos de forma autónoma antes de finalizar las ventas, reduciendo la carga de trabajo
+  manual. Para garantizar un control total de la infraestructura y escalabilidad, todo el entorno está alojado en un
+  <strong>Droplet de DigitalOcean</strong>.
 </div>
 
 <br><br>
 
-<h2 align="left">🌱 My Goal</h2>
+<h2 align="left">🌱 Mi Meta</h2>
 <div align="left">
-  To deeply understand how systems work and build meaningful, well-structured software solutions. To master both the logic
-  and creativity behind software, building things that are not only functional, but meaningful.
+  Profundizar en el funcionamiento de los sistemas y crear soluciones de software significativas y bien estructuradas.
+  Dominar tanto la lógica como la creatividad detrás del software, construyendo cosas que no solo sean funcionales, sino
+  también significativas.
 </div>
 
 <br><br>
 
-<h2 align="right">📈 Current Focus</h2>
+<h2 align="right">📈 Mi Enfoque Actual</h2>
 <div align="right">
-  Deepening my understanding of how software works end-to-end (from low-level processes to user interfaces), 
-  developing strong soft skills to thrive in professional environments, 
-  building solid programming foundations across languages and technologies and
-  completing a Full Stack Java bootcamp with a focus on real-world job readiness.
+  Profundizando mi comprensión de cómo funciona el software de extremo a extremo (desde procesos de bajo nivel hasta
+  interfaces de usuario),
+  desarrollando sólidas habilidades blandas para prosperar en entornos profesionales,
+  construyendo bases sólidas de programación en diversos lenguajes y tecnologías y
+  completando un bootcamp de Java Full Stack con enfoque en la preparación para el mundo laboral.
 </div>
 
 <br><br>
 
-<h2 align="left">💡 My Philosophy</h2>
+<h2 align="left">💡 Mi Filosofía</h2>
 <blockquote>
-  <p><b>"First, solve the problem. Then, write the code."</b></p>
+  <p><b>"Primero, resuelve el problema. Luego, escribe el código."</b></p>
   <cite>— John Johnson</cite>
 </blockquote>
 <blockquote>
-  <p><b>"Any fool can write code that a computer can understand. Good programmers write code that humans can
-      understand."</b></p>
+  <p><b>"Cualquier tonto puede escribir código que una computadora pueda entender. Los buenos programadores escriben
+      código que los humanos puedan entender."</b></p>
   <cite>— Martin Fowler</cite>
 </blockquote>
 <blockquote>
-  <p><b>"Programs must be written for people to read, and only incidentally for machines to execute."</b></p>
+  <p><b>"Los programas deben escribirse para que los lean las personas y solo incidentalmente para que los ejecuten las
+      máquinas."</b></p>
   <cite>— Harold Abelson</cite>
 </blockquote>
 
 <br><br>
 
-<h2 align="right">⚡ Fun Fact: Me in five words</h2>
+<h2 align="right">⚡ Fun Fact: Yo en cinco palabras</h2>
 <div align="right">
-  <p>Solid logic, questionable syntax memory 😅</p>
+  <p>Lógica sólida, memoria de sintaxis cuestionable 😅</p>
 </div>
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&customColorList=14&textBg=false&fontAlign=50&fontAlignY=50&fontSize=50&section=header&reversal=false"/>
-<p align="center">⭐ <i>Thanks for stopping by!</i></p>
+<img width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&customColorList=14&textBg=false&fontAlign=50&fontAlignY=50&fontSize=50&section=header&reversal=false" />
+<p align="center">⭐ <i>¡Gracias por visitar mi perfil!</i></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=25&color=gradient&customColorList=14&textBg=false&fontAlign=50&fontAlignY=50&fontSize=50&section=header&reversal=false"/>
+<img width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&height=25&color=gradient&customColorList=14&textBg=false&fontAlign=50&fontAlignY=50&fontSize=50&section=header&reversal=false" />
