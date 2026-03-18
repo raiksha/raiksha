@@ -8,16 +8,9 @@
       alt="Full Stack Developer Student" /></a>
 </div>
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td>
-        🤖 aka Raiksha o Akane
-      </td>
-      <td>
-        📫 Contáctame: <a href="mailto:dev.miari@gmail.com/">dev.miari@gmail.com</a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=aka&secondaryLabel=raiksha++%2F++akane&primaryBGColor=%239e6f9f&primaryTextColor=%23FFFFFF&secondaryBGColor=%23000000&secondaryTextColor=%23FFFFFF&primaryFontSize=11&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&scale=0.9" />
+  <a href="mailto:dev.miari@gmail.com/">
+          <img src="https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=contact&secondaryLabel=me&primaryBGColor=%239e6f9f&primaryTextColor=%23FFFFFF&secondaryBGColor=%23000000&secondaryTextColor=%23FFFFFF&primaryFontSize=11&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&scale=0.9" /></a>
 </div>
 <img width="100%"
   src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&customColorList=14&textBg=false&fontAlign=50&fontAlignY=50&fontSize=50&section=header&reversal=false" />
@@ -161,7 +154,7 @@
 
 <img width="100%"
   src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&customColorList=14&textBg=false&fontAlign=50&fontAlignY=50&fontSize=50&section=header&reversal=false" />
-<p align="center">⭐ <i>¡Gracias por visitar mi perfil!</i></p>
+<p align="center">⭐ <i>¡Gracias por visitar mi perfil</i></p>
 
 <img width="100%"
   src="https://capsule-render.vercel.app/api?type=rect&height=25&color=gradient&customColorList=14&textBg=false&fontAlign=50&fontAlignY=50&fontSize=50&section=header&reversal=false" />
