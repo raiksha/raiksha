@@ -145,16 +145,21 @@
 
 <br><br>
 
-<h2 align="right">⚡ Fun Fact: Yo en cinco palabras</h2>
-<div align="right">
-  <p>Lógica sólida, memoria de sintaxis cuestionable 😅</p>
+<img width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&customColorList=14&textBg=false&fontAlign=50&fontAlignY=50&fontSize=50&section=header&reversal=false" />
+
+<br><br>
+
+<h2 align="center">⚡ Fun Fact: Yo en cinco palabras</h2>
+<div align="center">
+  <h3>Lógica sólida, memoria de sintaxis cuestionable 😅</h3>
 </div>
 
 <br><br>
 
 <img width="100%"
   src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&customColorList=14&textBg=false&fontAlign=50&fontAlignY=50&fontSize=50&section=header&reversal=false" />
-<p align="center">⭐ <i>¡Gracias por visitar mi perfil</i></p>
+<p align="center">.・。.・゜✭・.🌸.・。.・゜✭・.・✫・゜・。. <i>Gracias por visitar mi perfil</i> .・。.・゜✭・.・✫・゜・。.🌸.・✫・゜・。.</p>
 
 <img width="100%"
   src="https://capsule-render.vercel.app/api?type=rect&height=25&color=gradient&customColorList=14&textBg=false&fontAlign=50&fontAlignY=50&fontSize=50&section=header&reversal=false" />
