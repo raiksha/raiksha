@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=EDCCF7&center=true&vCenter=true&width=435&lines=Estudiante+de+Desarrollo+Full+Stack"
-      alt="Full Stack Developer Student" /></a>
+      alt="Estudiante de Desarrollo Full Stack" /></a>
 </div>
 <div align="center">
   <img src="https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=aka&secondaryLabel=raiksha++%2F++akane&primaryBGColor=%239e6f9f&primaryTextColor=%23FFFFFF&secondaryBGColor=%23000000&secondaryTextColor=%23FFFFFF&primaryFontSize=11&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&scale=0.9" />
