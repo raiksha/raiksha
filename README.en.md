@@ -9,8 +9,11 @@
 </div>
 <div align="center">
   <img src="https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=aka&secondaryLabel=raiksha++%2F++akane&primaryBGColor=%239e6f9f&primaryTextColor=%23FFFFFF&secondaryBGColor=%23000000&secondaryTextColor=%23FFFFFF&primaryFontSize=11&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&scale=0.9" />
+  &nbsp;&nbsp;
   <a href="mailto:dev.miari@gmail.com/">
           <img src="https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=contact&secondaryLabel=me&primaryBGColor=%239e6f9f&primaryTextColor=%23FFFFFF&secondaryBGColor=%23000000&secondaryTextColor=%23FFFFFF&primaryFontSize=11&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&scale=0.9" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/raiksha/raiksha/blob/main/README.md"><img src="./language.png" height="30" alt="english version"  /></a>
 </div>
 <img width="100%"
   src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&customColorList=14&textBg=false&fontAlign=50&fontAlignY=50&fontSize=50&section=header&reversal=false" />
