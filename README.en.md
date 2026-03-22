@@ -12,6 +12,9 @@
   &nbsp;&nbsp;
   <a href="mailto:dev.miari@gmail.com/">
           <img src="https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=contact&secondaryLabel=me&primaryBGColor=%239e6f9f&primaryTextColor=%23FFFFFF&secondaryBGColor=%23000000&secondaryTextColor=%23FFFFFF&primaryFontSize=11&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&scale=0.9" /></a>
+  <br>
+  <a href="https://mariariquelme.dev/">
+          <img src="https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=my&secondaryLabel=portfolio&primaryBGColor=%239e6f9f&primaryTextColor=%23FFFFFF&secondaryBGColor=%23000000&secondaryTextColor=%23FFFFFF&primaryFontSize=11&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&scale=0.9" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/raiksha/raiksha/blob/main/README.md"><img src="./language.png" height="30" alt="english version"  /></a>
 </div>
