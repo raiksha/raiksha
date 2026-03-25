@@ -164,7 +164,7 @@
 
 <br><br>
 
-<h2 align="center">⚡ Fun Fact: Yo en cinco palabras</h2>
+<h2 align="center">⚡ Fun Fact: Yo en seis palabras</h2>
 <div align="center">
   <h3>Lógica sólida, memoria de sintaxis cuestionable 😅</h3>
 </div>
