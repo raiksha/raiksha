@@ -31,8 +31,8 @@ jobs:
           #                       Exactly 5 colors are expected.
           #  - color_background:  Color of the background (for gif only)
           outputs: |
-            dist/github-snake.svg?color_snake=#e1bd46&color_dots=#bae0e9,#add38e,#7da55c,#588136,#3f7115
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#e1bd46&color_dots=#bae0e9,#add38e,#7da55c,#588136,#3f7115
+            dist/github-snake.svg?color_snake=#e190a1&color_dots=#e3c993b0,#add38e,#7da55c,#588136,#3f7115
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#e190a1&color_dots=#37271ab0,#add38e,#7da55c,#588136,#3f7115
             
       - uses: crazy-max/ghaction-github-pages@v4
         with:
