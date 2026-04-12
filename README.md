@@ -1,180 +1,140 @@
-<!-- Barra de colores -->
-<img width="100%"
-  src="https://capsule-render.vercel.app/api?type=rect&height=25&color=gradient&customColorList=14&textBg=false&fontAlign=50&fontAlignY=50&fontSize=50&section=header&reversal=false" />
+<!-- skills: Java, JavaScript, TypeScript, Python, React, HTML, CSS, Bootstrap, Tailwind, Node.js, PostgreSQL, MySQL, Git, Docker, Linux, NGINX, Full Stack, Developer -->
 
-<!-- Nombre y título -->
-<h1 align="center">María Constanza Riquelme <sup>she/her</sup></h1>
-<div align="center">
-  <a href="https://git.io/typing-svg"><img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=EDCCF7&center=true&vCenter=true&width=435&lines=Estudiante+de+Desarrollo+Full+Stack"
-      alt="Estudiante de Desarrollo Full Stack" /></a>
-</div>
+<!-- Header -->
+<h1 align="center">. ‧₊ 𔘓 ֹ・⋮&nbsp;&nbsp; María Constanza Riquelme &nbsp;⋮ 𓂅 ̼ ・₊‧ .</h1>
+<p align="center">🌿🌸 <em>she/her · a.k.a Raiksha · Akane</em> 🌸🌿</p>
 
-<!-- Badges -->
-<div align="center">
-  <img src="https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=aka&secondaryLabel=raiksha++%2F++akane&primaryBGColor=%239e6f9f&primaryTextColor=%23FFFFFF&secondaryBGColor=%23000000&secondaryTextColor=%23FFFFFF&primaryFontSize=11&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&scale=0.9" />
-  &nbsp;&nbsp;
-  <a href="mailto:mariariquelme.dev@gmail.com/">
-          <img src="https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=contacta&secondaryLabel=me&primaryBGColor=%239e6f9f&primaryTextColor=%23FFFFFF&secondaryBGColor=%23000000&secondaryTextColor=%23FFFFFF&primaryFontSize=11&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&scale=0.9" /></a>
-  <br>
-  <a href="https://mariariquelme.dev/">
-          <img src="https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=mi&secondaryLabel=portafolio&primaryBGColor=%239e6f9f&primaryTextColor=%23FFFFFF&secondaryBGColor=%23000000&secondaryTextColor=%23FFFFFF&primaryFontSize=11&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&scale=0.9" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/raiksha/raiksha/blob/main/README.en.md"><img src="./language.png" height="30" alt="english version"  /></a>
-</div>
+<!-- Línea de contacto -->
+<p align="center">
+  <a href="mailto:mariariquelme.dev@gmail.com">✦ mariariquelme.dev@gmail.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://mariariquelme.dev">✦ mariariquelme.dev</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/raiksha/raiksha/blob/main/README.en.md">✦ english version</a>
+</p>
 
-<!-- Divisor de colores -->
-<img width="100%"
-  src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&customColorList=14&textBg=false&fontAlign=50&fontAlignY=50&fontSize=50&section=header&reversal=false" />
+<br>
 
-<!-- Contenido principal -->
-<h2 align="center">🌱 Actualmente Aprendiendo</h2>
+<!-- Divisor -->
+<p align="center">✦ ──────────────────────────── ✦</p>
+
+<!-- Sobre mí -->
+<h2 align="center">✦ sobre mí ✦</h2>
+
+<p align="center">
+  Desarrolladora full stack en formación, con foco en construir cosas que tengan sentido de punta a punta.<br>
+  Estudiante de <strong>Full Stack Java en <a href="https://chile.generation.org/">Generation Chile</a></strong> · CS50x · autodidacta por convicción.<br>
+  Me interesan los sistemas bien pensados, la infraestructura y el software que se construye pensando en las personas, no solo en las máquinas.<br>
+  Actualmente preparándome para comenzar la universidad en 2027.
+</p>
+
+<br>
+
+<p align="center">✦ ──────────────────────────── ✦</p>
+
+<h2 align="center">🛠 stack</h2>
+
+<p align="center"><strong>Frontend</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+<p align="center"><strong>Backend & Database</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<p align="center"><strong>DevOps & Tools</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+<br>
+
+<!-- Divisor -->
+<p align="center">✦ ──────────────────────────── ✦</p>
+
+<!-- Proyectos -->
+<h2 align="center">🌿 proyectos</h2>
 <div align="center">
   <table>
     <tr>
-      <th>Lenguajes</th>
-      <th>Frontend</th>
-      <th>Backend</th>
-      <th>Database</th>
-      <th>DVCS</th>
+      <th>proyecto</th>
+      <th>descripción</th>
+      <th>stack</th>
+      <th>estado</th>
     </tr>
-    <tr align="center">
-      <td>
-        <a href="https://www.python.org" title="Python programming language" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="Python programming language logo" width="40" height="40" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript programming language"
-          target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="JavaScript programming language logo" width="40" height="40" /></a>
-        <a href="https://www.typescriptlang.org/" title="TypeScript programming language" target="_blank"
-          rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="TypeScript programming language logo" width="40" height="40" /></a>
-        <a href="https://www.java.com" title="Java programming language" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-            alt="Java programming language logo" width="40" height="40" /></a>
-      </td>
-      <td>
-        <a href="https://reactjs.org/" title="React JavaScript library for building user interfaces" target="_blank"
-          rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="React library logo" width="40" height="40" /></a>
-        <a href="https://www.w3.org/html/" title="HTML5 markup language" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="HTML5 markup language logo" width="40" height="40" /></a>
-        <a href="https://www.w3schools.com/css/" title="CSS3 styling language" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="CSS3 styling language logo" width="40" height="40" /></a>
-        <a href="https://getbootstrap.com" title="Bootstrap CSS framework" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="Bootstrap framework logo" width="40" height="40" /></a>
-        <a href="https://tailwindcss.com/" title="Tailwind CSS utility-first framework" target="_blank"
-          rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-            alt="Tailwind CSS framework logo" width="40" height="40" /></a>
-      </td>
-      <td>
-        <a href="https://nodejs.org" title="Node.js JavaScript runtime environment" target="_blank"
-          rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="Node.js runtime logo" width="40" height="40" /></a>
-      </td>
-      <td>
-        <a href="https://www.postgresql.org" title="PostgreSQL relational database" target="_blank"
-          rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="PostgreSQL database logo" width="40" height="40" /></a>
-        <a href="https://www.mysql.com/" title="MySQL relational database" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="MySQL database logo" width="40" height="40" /></a>
-      </td>
-      <td>
-        <a href="https://git-scm.com/" title="Git distributed version control system" target="_blank"
-          rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-            alt="Git version control system logo" width="40" height="40" /></a>
-      </td>
+    <tr>
+      <td><a href="https://mariariquelme.dev"><strong>mariariquelme.dev</strong></a></td>
+      <td>Portafolio personal alojado en un Droplet de DigitalOcean con Docker + NGINX</td>
+      <td>HTML · CSS · Docker · NGINX · Linux</td>
+      <td>🔨 en desarrollo</td>
+    </tr>
+    <tr>
+      <td><strong>Sales Automation Bot</strong></td>
+      <td>Bot de Discord que automatiza la recopilación de datos de prospectos antes de cerrar ventas</td>
+      <td>Node.js · Discord.js · n8n · PostgreSQL</td>
+      <td>🔨 en desarrollo</td>
+    </tr>
+    <tr>
+      <td><a href="https://scratch.mit.edu/projects/1171121973"><strong>Escape the Coop</strong></a></td>
+      <td>Juego de aventura creado como proyecto del curso CS50x</td>
+      <td>Scratch</td>
+      <td>✅ publicado</td>
     </tr>
   </table>
 </div>
+<br>
 
-<br><br>
+<!-- Divisor -->
+<p align="center">✦ ──────────────────────────── ✦</p>
 
-<h2 align="left">🙋‍♂️ ¿Quién soy?</h2>
-<div align="left">
-  - Soy una desarrolladora en formación que ama resolver problemas, construir cosas y aprender todos los días.<br />
-  - He trabajado en scripting, desarrollo web y automatización.<br />
-  - Actualmente estoy completando una <strong>especialización en Desarrollo Full Stack Java en <a
-      href="https://chile.generation.org/">Generation</a></strong> y preparándome para comenzar la universidad en 2027.
-</div>
+<!-- Stats -->
+<h2 align="center">📊 stats</h2>
 
-<br><br>
-
-<h2 align="right">🛠️ ¿En qué estoy trabajando?</h2>
-<div align="right">
-  Estoy desarrollando un <strong>flujo de automatización de ventas</strong> que integra Discord con
-  <strong>n8n</strong>. El
-  sistema recopila datos de prospectos de forma autónoma antes de finalizar las ventas, reduciendo la carga de trabajo
-  manual. Para garantizar un control total de la infraestructura y escalabilidad, todo el entorno está alojado en un
-  <strong>Droplet de DigitalOcean</strong>.
-</div>
-
-<br><br>
-
-<h2 align="left">🌱 Mi Meta</h2>
-<div align="left">
-  Profundizar en el funcionamiento de los sistemas y crear soluciones de software significativas y bien estructuradas.
-  Dominar tanto la lógica como la creatividad detrás del software, construyendo cosas que no solo sean funcionales, sino
-  también significativas.
-</div>
-
-<br><br>
-
-<h2 align="right">📈 Mi Enfoque Actual</h2>
-<div align="right">
-  Profundizando mi comprensión de cómo funciona el software de extremo a extremo (desde procesos de bajo nivel hasta
-  interfaces de usuario),
-  desarrollando sólidas habilidades blandas para prosperar en entornos profesionales,
-  construyendo bases sólidas de programación en diversos lenguajes y tecnologías y
-  completando un bootcamp de Java Full Stack con enfoque en la preparación para el mundo laboral.
-</div>
-
-<br><br>
-
-<h2 align="left">💡 Mi Filosofía</h2>
-<blockquote>
-  <p><b>"Primero, resuelve el problema. Luego, escribe el código."</b></p>
-  <cite>— John Johnson</cite>
-</blockquote>
-<blockquote>
-  <p><b>"Cualquier tonto puede escribir código que una computadora pueda entender. Los buenos programadores escriben
-      código que los humanos puedan entender."</b></p>
-  <cite>— Martin Fowler</cite>
-</blockquote>
-<blockquote>
-  <p><b>"Los programas deben escribirse para que los lean las personas y solo incidentalmente para que los ejecuten las
-      máquinas."</b></p>
-  <cite>— Harold Abelson</cite>
-</blockquote>
-
-<br><br>
-
-<!-- Divisor de colores -->
-<img width="100%"
-  src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&customColorList=14&textBg=false&fontAlign=50&fontAlignY=50&fontSize=50&section=header&reversal=false" />
-
-<br><br>
-
-<h2 align="center">⚡ Fun Fact: Yo en seis palabras</h2>
 <div align="center">
-  <h3>Lógica sólida, memoria de sintaxis cuestionable 😅</h3>
+  <img height="160" src="https://github-readme-stats-vercel-zeta.vercel.app/api?username=raiksha&show_icons=true&hide_border=true&bg_color=00000000&title_color=A7E1FF&icon_color=ACEC53&text_color=ffffff" />
+  &nbsp;
+  <img height="160" src="https://github-readme-stats-vercel-zeta.vercel.app/api/top-langs/?username=raiksha&layout=compact&hide_border=true&bg_color=00000000&title_color=DBACFF&text_color=ffffff" />
 </div>
 
-<br><br>
+<br>
 
-<!-- Divisor de colores, footer y barra final de colores -->
-<img width="100%"
-  src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&customColorList=14&textBg=false&fontAlign=50&fontAlignY=50&fontSize=50&section=header&reversal=false" />
-<p align="center">.・。.・゜✭・.🌸.・。.・゜✭・.・✫・゜・。. <i>Gracias por visitar mi perfil</i> .・。.・゜✭・.・✫・゜・。.🌸.・✫・゜・。.</p>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=raiksha&theme=slateorange&hide_border=true&background=00000000&stroke=FFFFFF&currStreakNum=FFFFFF&fire=E76F0C&ring=E7993F&currStreakLabel=E7C246&sideLabels=F4FF8D&sideNums=ACEC53" alt="GitHub Streak" /></a>
+</div>
 
-<img width="100%"
-  src="https://capsule-render.vercel.app/api?type=rect&height=25&color=gradient&customColorList=14&textBg=false&fontAlign=50&fontAlignY=50&fontSize=50&section=header&reversal=false" />
+<br>
+
+<!-- Gusanito -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raiksha/raiksha/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raiksha/raiksha/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/raiksha/raiksha/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br>
+
+<!-- Divisor -->
+<p align="center">✦ ──────────────────────────── ✦</p>
+
+<!-- Fun fact -->
+<h2 align="center">⚡ en seis palabras</h2>
+<p align="center"><em>lógica sólida</em> ( ◡̀_◡́)ᕤ<br><em>memoria de sintaxis cuestionable</em><br>╮ (. ❛ ᴗ ❛.) ╭</p>
