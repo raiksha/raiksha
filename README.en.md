@@ -93,7 +93,7 @@
     </tr>
     <tr>
       <td><a href="https://scratch.mit.edu/projects/1171121973"><strong>Escape the Coop</strong></a></td>
-      <td>Adventure game built as a CS50x project</td>
+      <td>Small maze game built as a CS50x project</td>
       <td>Scratch</td>
       <td>✅ published</td>
     </tr>
