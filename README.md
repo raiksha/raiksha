@@ -93,7 +93,7 @@
     </tr>
     <tr>
       <td><a href="https://scratch.mit.edu/projects/1171121973"><strong>Escape the Coop</strong></a></td>
-      <td>Juego de aventura creado como proyecto del curso CS50x</td>
+      <td>Juego de laberinto simple creado como proyecto del curso CS50x</td>
       <td>Scratch</td>
       <td>✅ publicado</td>
     </tr>
