@@ -86,9 +86,9 @@
       <td>🔨 en desarrollo</td>
     </tr>
     <tr>
-      <td><strong>Sales Automation Bot</strong></td>
+      <td><strong>Bot de automatización de ventas</strong></td>
       <td>Bot de Discord que automatiza la recopilación de datos de prospectos antes de cerrar ventas</td>
-      <td>Node.js · Discord.js · n8n · PostgreSQL</td>
+      <td>Discord Webhooks · n8n · PostgreSQL</td>
       <td>🔨 en desarrollo</td>
     </tr>
     <tr>
