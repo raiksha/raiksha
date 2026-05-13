@@ -88,7 +88,7 @@
     <tr>
       <td><strong>Sales Automation Bot</strong></td>
       <td>Discord bot that autonomously collects prospect data before closing sales</td>
-      <td>Node.js · Discord.js · n8n · PostgreSQL</td>
+      <td>Discord Webhooks · n8n · PostgreSQL</td>
       <td>🔨 in progress</td>
     </tr>
     <tr>
