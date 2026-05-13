@@ -86,6 +86,12 @@
       <td>🔨 en desarrollo</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/raiksha/SoF4-Games"><strong>SoF4 Games</strong></a></td>
+      <td>Proyecto grupal del bootcamp Full Stack Java - plataforma de gestión de juegos desarrollada en equipo</td>
+      <td>Java · Spring Boot · JavaScript · React · TypeScript · PostgreSQL · Docker · Git</td>
+      <td>🔨 en desarrollo</td>
+    </tr>
+    <tr>
       <td><strong>Bot de automatización de ventas</strong></td>
       <td>Bot de Discord que automatiza la recopilación de datos de prospectos antes de cerrar ventas</td>
       <td>Discord Webhooks · n8n · PostgreSQL</td>
