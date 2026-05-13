@@ -86,6 +86,12 @@
       <td>🔨 in progress</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/raiksha/SoF4-Games"><strong>SoF4 Games</strong></a></td>
+      <td>Full Stack Java bootcamp group project — team-built game management platform</td>
+      <td>Java · Spring Boot · JavaScript · React · TypeScript · PostgreSQL · Docker · Git</td>
+      <td>🔨 in progress</td>
+    </tr>
+    <tr>
       <td><strong>Sales Automation Bot</strong></td>
       <td>Discord bot that autonomously collects prospect data before closing sales</td>
       <td>Discord Webhooks · n8n · PostgreSQL</td>
